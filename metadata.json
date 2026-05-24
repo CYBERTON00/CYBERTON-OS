@@ -1,0 +1,6 @@
+{
+  "name": "Cyberton OS",
+  "description": "Adaptive workspace, interactive file generator, and AI copilot for building the startup-grade CYBERTON OS monorepo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
